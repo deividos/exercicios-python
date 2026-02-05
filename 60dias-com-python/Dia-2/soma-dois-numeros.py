@@ -11,3 +11,14 @@ def somar_dois_num():
     return soman
 
 print("a soma é: ", somar_dois_num())
+
+
+
+def somar_dois_num(a, b):
+    return a + b
+
+
+a = int(input('Digite o primeiro numero inteiro: '))
+b = int(input('Digite o segundo numero inteiro: '))
+
+print(somar_dois_num(a, b))

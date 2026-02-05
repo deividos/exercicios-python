@@ -2,7 +2,7 @@
 
 [x] dia 1 - hello world
 [x] dia 2 - soma de dois números - função para somar
-[ ] dia 3
+[x] dia 3 - verificação de número par
 [ ] dia 4
 [ ] dia 5
 [ ] dia 6
